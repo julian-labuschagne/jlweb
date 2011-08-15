@@ -1,0 +1,7 @@
+/* This file will hold the main styles for your website. */
+.element-invisible {
+  display: none;
+}
+.region {
+  min-height: 0px;
+}
