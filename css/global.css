@@ -1,7 +1,21 @@
 /* This file will hold the main styles for your website. */
+body {
+  margin-top: 10px;
+}
 .element-invisible {
   display: none;
 }
 .region {
   min-height: 0px;
+}
+
+/**
+ * Branding Zone
+ */
+#zone-branding {
+  border-radius: 20px 20px 0 0;
+}
+
+#zone-menu .navigation {
+  height: 40px;
 }
